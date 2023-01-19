@@ -1,0 +1,30 @@
+D:\Users\Kevin\Documentos\c# projects\Proyecto Geometria por KAML\bin\Debug\Proyecto Geometria por KAML.exe.config
+D:\Users\Kevin\Documentos\c# projects\Proyecto Geometria por KAML\bin\Debug\Proyecto Geometria por KAML.exe
+D:\Users\Kevin\Documentos\c# projects\Proyecto Geometria por KAML\bin\Debug\Proyecto Geometria por KAML.pdb
+D:\Users\Kevin\Documentos\c# projects\Proyecto Geometria por KAML\obj\Debug\Proyecto Geometria por KAML.csproj.AssemblyReference.cache
+D:\Users\Kevin\Documentos\c# projects\Proyecto Geometria por KAML\obj\Debug\Proyecto Geometria por KAML.csproj.SuggestedBindingRedirects.cache
+D:\Users\Kevin\Documentos\c# projects\Proyecto Geometria por KAML\obj\Debug\Proyecto_Geometria_por_KAML.Form1.resources
+D:\Users\Kevin\Documentos\c# projects\Proyecto Geometria por KAML\obj\Debug\Proyecto_Geometria_por_KAML.Formularios.cilindrico.resources
+D:\Users\Kevin\Documentos\c# projects\Proyecto Geometria por KAML\obj\Debug\Proyecto_Geometria_por_KAML.Formularios.conico.resources
+D:\Users\Kevin\Documentos\c# projects\Proyecto Geometria por KAML\obj\Debug\Proyecto_Geometria_por_KAML.Formularios.cuadrangular.resources
+D:\Users\Kevin\Documentos\c# projects\Proyecto Geometria por KAML\obj\Debug\Proyecto_Geometria_por_KAML.Formularios.hexagonal.resources
+D:\Users\Kevin\Documentos\c# projects\Proyecto Geometria por KAML\obj\Debug\Proyecto_Geometria_por_KAML.Properties.Resources.resources
+D:\Users\Kevin\Documentos\c# projects\Proyecto Geometria por KAML\obj\Debug\Proyecto Geometria por KAML.csproj.GenerateResource.cache
+D:\Users\Kevin\Documentos\c# projects\Proyecto Geometria por KAML\obj\Debug\Proyecto Geometria por KAML.csproj.CoreCompileInputs.cache
+D:\Users\Kevin\Documentos\c# projects\Proyecto Geometria por KAML\obj\Debug\Proyecto Geometria por KAML.exe
+D:\Users\Kevin\Documentos\c# projects\Proyecto Geometria por KAML\obj\Debug\Proyecto Geometria por KAML.pdb
+D:\Users\Kevin\Documentos\c#projects\Proyecto Geometria por KAML\bin\Debug\Proyecto Geometria por KAML.exe.config
+D:\Users\Kevin\Documentos\c#projects\Proyecto Geometria por KAML\bin\Debug\Proyecto Geometria por KAML.exe
+D:\Users\Kevin\Documentos\c#projects\Proyecto Geometria por KAML\bin\Debug\Proyecto Geometria por KAML.pdb
+D:\Users\Kevin\Documentos\c#projects\Proyecto Geometria por KAML\obj\Debug\Proyecto Geometria por KAML.csproj.AssemblyReference.cache
+D:\Users\Kevin\Documentos\c#projects\Proyecto Geometria por KAML\obj\Debug\Proyecto Geometria por KAML.csproj.SuggestedBindingRedirects.cache
+D:\Users\Kevin\Documentos\c#projects\Proyecto Geometria por KAML\obj\Debug\Proyecto_Geometria_por_KAML.Form1.resources
+D:\Users\Kevin\Documentos\c#projects\Proyecto Geometria por KAML\obj\Debug\Proyecto_Geometria_por_KAML.Formularios.cilindrico.resources
+D:\Users\Kevin\Documentos\c#projects\Proyecto Geometria por KAML\obj\Debug\Proyecto_Geometria_por_KAML.Formularios.conico.resources
+D:\Users\Kevin\Documentos\c#projects\Proyecto Geometria por KAML\obj\Debug\Proyecto_Geometria_por_KAML.Formularios.cuadrangular.resources
+D:\Users\Kevin\Documentos\c#projects\Proyecto Geometria por KAML\obj\Debug\Proyecto_Geometria_por_KAML.Formularios.hexagonal.resources
+D:\Users\Kevin\Documentos\c#projects\Proyecto Geometria por KAML\obj\Debug\Proyecto_Geometria_por_KAML.Properties.Resources.resources
+D:\Users\Kevin\Documentos\c#projects\Proyecto Geometria por KAML\obj\Debug\Proyecto Geometria por KAML.csproj.GenerateResource.cache
+D:\Users\Kevin\Documentos\c#projects\Proyecto Geometria por KAML\obj\Debug\Proyecto Geometria por KAML.csproj.CoreCompileInputs.cache
+D:\Users\Kevin\Documentos\c#projects\Proyecto Geometria por KAML\obj\Debug\Proyecto Geometria por KAML.exe
+D:\Users\Kevin\Documentos\c#projects\Proyecto Geometria por KAML\obj\Debug\Proyecto Geometria por KAML.pdb
